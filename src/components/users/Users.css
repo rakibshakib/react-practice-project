@@ -1,0 +1,24 @@
+.img-style img{
+   height: 350px;
+}
+/* <Router>
+                <Header />
+                <Switch>
+                    <Route path="/home">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti saepe, exercitationem possimus perferendis soluta, in blanditiis voluptatem molestiae quidem ipsa fuga vero quae rerum obcaecati optio mollitia. Ab, asperiores iste.
+                    </Route>
+                    <Route path="/about">
+
+                    </Route>
+                    <Route path="/team">
+
+                    </Route>
+                    <Route path="/">
+                        <div className="container">
+                            <div className="row">
+                                <Users users={users}></Users>
+                            </div>
+                        </div>
+                    </Route>
+                </Switch>
+            </Router> */
